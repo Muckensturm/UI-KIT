@@ -1,0 +1,19 @@
+@import url(https://fonts.googleapis.com/css2?family=Lora&display=swap);
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+body {
+	font-family: 'roboto'; sans-serif;
+	front-size: 14px;
+	background-image: url(../images/utah.jpg);
+	background-attachment: fixed;
+}
+
+h1, h2, h3, h4 {
+	front-family : 'poppins', sans-serif;
+	color:  orangered;
+}
